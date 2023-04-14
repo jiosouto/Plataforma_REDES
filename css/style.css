@@ -646,10 +646,10 @@ footer .msg p {
 .s-hero .right-area .image .front-card {
   position: absolute;
   top: 4.1rem;
-  left: 0;
+  right: 0;
   z-index: 2;
-  border-radius: 5%;
-  max-width: 43.5rem;
+  border-radius: 2%;
+  max-width: 40.0rem;
   animation: floating 6s ease-in-out infinite;
 }
 .s-hero .right-area .image .back-card {
@@ -657,25 +657,17 @@ footer .msg p {
   z-index: 1;
   right: 0;
   bottom: -3.9rem;
-  border-radius: 5%;
+  border-radius: 2%;
   max-width: 40.0rem;
   animation: floating 8s ease-in-out infinite;
 }
-.s-hero .right-area .image .back-card {
-  position: absolute;
-  z-index: 1;
-  right: 0;
-  bottom: -3.9rem;
-  border-radius: 5%;
-  max-width: 40.0rem;
-  animation: floating 8s ease-in-out infinite;
-}
+
 .s-hero .right-area .image .marca {
   position: absolute;
   z-index: 0;
-  top: 9px;
-  right: 0;
-  max-width: 63.8rem;
+  bottom: 15px;
+  right: 10;
+  max-width: 75.0rem;
 }
 @media (max-width: 1440px) {
   .s-hero .right-area {
