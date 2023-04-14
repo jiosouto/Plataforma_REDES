@@ -1,9 +1,9 @@
 # Construção da plataforma REDES para visualização de relatórios e métricas através de dashboards interativos para inteligência de dados.
 
-## Link para o site ##
+## Link para a prévia da plataforma ##
 https://jiosouto.github.io/Plataforma_REDES/
 
-## Imagens do site ##
+## Imagens da plataforma ##
 <img src="/prints/design_piloto_01.png">
 
 ## Tecnologias usadas : ##
